@@ -44,12 +44,12 @@ To run this project on your local machine, follow these steps:
 
 - Clone the repository to your local machine:
 ```bash
-git clone https://github.com/nareshkumaralaria/stack-overflow-clone.git
+git clone https://github.com/nareshkumaralaria/Ascend-Capital-Assignment.git
 
 ```
 - Navigate to the project directory:
 ```bash
-cd stack-overflow-clone
+cd Ascend-Capital-Assignment
 
 ```
 #### Install frontend dependencies
@@ -106,6 +106,10 @@ npm run dev
 
 ## Demo
 For a live demonstration of the Task Board application, please watch the following video:
+
+
+
+https://github.com/nareshkumaralaria/Ascend-Capital-Assignment/assets/57484597/f4779996-194b-4ead-a1af-da6f27a7c3dd
 
 
 
